@@ -1,2 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
-/* Your CSS Code here. */
+.center {
+    text-align: center;
+}
+
+.favorite-color {
+    color: #00aaff; /* Replace with your actual favorite color */
+}
